@@ -37,14 +37,14 @@ public class Doorsmeer {
 //        cbJenis.addItem("mobil");
 
         // Isi ComboBox paket cucian
-        cbPaket.addItem("reguler");
-        cbPaket.addItem("premium");
-
-        // Group untuk radio button pembayaran
-        ButtonGroup group = new ButtonGroup();
-        group.add(rbDana);
-        group.add(rbQris);
-        group.add(rbCod);
+//        cbPaket.addItem("reguler");
+//        cbPaket.addItem("premium");
+//
+//        // Group untuk radio button pembayaran
+//        ButtonGroup group = new ButtonGroup();
+//        group.add(rbDana);
+//        group.add(rbQris);
+//        group.add(rbCod);
 
         // Tombol Cek Harga
         btnCekHarga.addActionListener(new ActionListener() {
